@@ -4,4 +4,3 @@ Install pipenv using command:
 goto project folder then
 `python -m pipenv -e`
 
-Harsh
